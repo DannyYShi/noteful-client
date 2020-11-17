@@ -46,13 +46,13 @@ export default class AddFolder extends Component {
                     <div className='field'>
                         <label htmlFor='folder-name-input'>
                             Name
-            </label>
+                         </label>
                         <input type='text' id='folder-name-input' name='folder-name' />
                     </div>
                     <div className='buttons'>
                         <button type='submit'>
                             Add folder
-            </button>
+                        </button>
                     </div>
                 </NotefulForm>
             </section>
